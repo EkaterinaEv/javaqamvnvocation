@@ -37,10 +37,7 @@ build/
 ### Mac OS ###
 .DS_Store
 
-.idea/
 target/
 *.iml
-.idea/javaqamvnvocation.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
+javaqamvnvocation/.idea/
+.idea/
